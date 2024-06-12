@@ -26,7 +26,7 @@ Some of the data was uncoded for sex - sex must be just male or female
 state of a patient must be died or alive - we adjust that as well   
   
 # Your Question - Is dying independent of sex?
-
+As i am looking at this data, the appropriate variables to use would be either sex all lower cased or Sex with an uppercase S and in my opinion I belive the Sex with the uppercase S because the variable are just "f" and "M" when the other one it spells out the whole word "female" and "male". The second variable that would apply to this would be the result because the only nes you could use are alive or dead, only 2 options.
 
 
 
