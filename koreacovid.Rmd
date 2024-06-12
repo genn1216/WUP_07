@@ -57,8 +57,12 @@ As we look at the graphs, we see that there were more women than men in the aliv
 
   
 ## Numerical results
-
-
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+When looking at these results, we see that of the dead people, about more than twice were male. At 1.4% of females were dead whereas 3% o males were dead. This is showing that was killing males at double the rate than females.
 ## Inferential results 
 
 
