@@ -71,5 +71,7 @@ fisher.test(table1)
 ```
 
 The females were from a population of a total of 1856 shows that 25 dies whereas in the male population of 1455, 44 died. There wast a difference between the sexes of who was getting killed. In the fishers exact test, the odds of dying if you,re a man is 2.3 times more than if you were  women.
+
 ## Conclusions
 
+As we entered the codes we got some unexpected results. This showed us that sex did not play a role in who was dying. There were more females than males in the graphical results but that didn't matter. Males died at a rate of 2.3 times faster rate than the female The total population of men was 1455, yet 44 died whereas the women had a population of 1856 and only 25 died. To conclude,the results were not what we expected.
